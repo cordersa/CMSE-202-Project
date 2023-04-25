@@ -1,6 +1,8 @@
 # CMSE-202-Project: Rock Climbing
 Ibrahim Elsadek, Sam Barans, William Voigt, Samuel Corder
 
+## IMPORTANT NOTE: We had issues with sharing the project on Github, so there are several versions of the file from each contribution. **The most up to date version as of right now is the 4/23 file!**
+
 
 This code is designed for simulating a rock climber climbing a wall. The user may input several statistics about both the climber and the wall before running the simulation. The simulation will display the climber climbing the wall, and it will stop when the climber falls
 
